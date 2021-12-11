@@ -117,8 +117,13 @@ $ ./"nombredelarchivo.sh" "Saavedra2013/n11.txt" "nombredelacarpetaparalosresult
 Para visualizar los resultados obtenidos
 ``` js
 $ cat "nombredelacarpetaparalosresultados"
+```
 
 * - Resultados
+
+![resultadoc](https://user-images.githubusercontent.com/95323235/145664536-c7530bd7-6049-4c7d-9cba-83304ac61461.png)
+![colum](https://user-images.githubusercontent.com/95323235/145664483-e199a967-35d0-4a3f-85e3-beb7f44552d4.png)
+
 
 
  
